@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-    Desygn System ( Ignite Lab )
+    Design System ( Ignite Lab )
 <br>
 </h1>
 <p align="center">
