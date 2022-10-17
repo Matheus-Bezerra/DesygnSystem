@@ -4,7 +4,7 @@
 <br>
 </h1>
 <p align="center">
-  Foi criado um projeto com foco no Design System ( padrões de design da sua marca nos projetos criados ), com objetivo de fazer esse estudo com as principais ferramentas mais atuais para se utilizar, facilitando a criação do design system da marca (Figma, Storybook, testes....).
+  Foi criado um projeto com foco no Design System ( padrões de design da sua marca nos projetos criados ), com objetivo de fazer esse estudo com as principais ferramentas mais atuais para se utilizar na criação do design System, como: Figma, Storybook, testes, etc.
   <br>
   O deploy da documentação do storybook dos componentes da aplicação, foi hospedado no Github Pages usando CI/CD automatizado. <a href="https://matheus-bezerra.github.io/DesygnSystem/?path=/story/components-button--default">Link dos componentes no Storybook</a>
 </p>
